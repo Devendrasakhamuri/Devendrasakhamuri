@@ -1,24 +1,54 @@
-### Hi there 👋
-Here are some ideas to get you started:
-- 👋 Hi, I’m @Devendrasakhamuri
-- 🔭 I’m currently working on industry specializations of computer science
-- 🌱 I’m currently learning  core java, advanced data structures and operating systems
-- 👯 I’m looking to collaborate on linkedin and instagram
-- 🤔 I’m looking for help with learning programming languages
-- 💬 Ask me about my present
-- 📫 Reach me on linkedin, insragram and facebook - devendrasakhamuri
-- ⚡ Fun fact: I listen to songs many hours in a day
+# 👋 Hi, I'm Devendra Sakhamuri!  
 
+🚀 **Aspiring Data Analyst | Machine Learning Enthusiast | Cloud-Certified Professional**  
 
-<!--
-**Devendrasakhamuri/Devendrasakhamuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Master’s student in Computer Science at Montclair State University** with a strong background in **Data Analytics, Python, SQL, Machine Learning, and Business Intelligence Tools (Power BI, Tableau)**. My expertise lies in **data-driven problem-solving, visualization, and predictive analytics** to generate impactful business insights.  
 
-Here are some ideas to get you started:
-- 👋 Hi, I’m @Devendrasakhamuri
-- 🔭 I’m currently working on industry specializations of computer science
-- 🌱 I’m currently learning  core java, advanced data structures and operating systems
-- 👯 I’m looking to collaborate on linkedin and instagram
-- 🤔 I’m looking for help with learning programming languages
-- 💬 Ask me about my present
-- 📫 Reach me on linkedin, insragram and facebook - devendrasakhamuri
-- ⚡ Fun fact: I listen to songs many hours in a day
+---
+
+## 🔥 **Key Skills & Technologies**  
+- **Programming:** Python, SQL, Java, C  
+- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Visualization:** Power BI, Tableau, GIS  
+- **Machine Learning:** Scikit-learn, TensorFlow, Deep Learning  
+- **Cloud & DevOps:** Google Cloud (GCP), Docker  
+- **Tools:** Microsoft 365, Jira, GitHub  
+
+---
+
+## 📂 **Featured Projects**  
+🔹 **[Transportation Data Science Project](#)**  
+- Conducted **time series analysis and geospatial analysis** on transportation datasets.  
+- Cleaned and processed large datasets using Python.  
+- Designed data pipelines to ensure **data quality and consistency**.  
+
+🔹 **[Cycle-GAN Age Regressor](#)**  
+- Developed a **deep learning model** to predict age transformations in human images.  
+- Used **Cycle-GANs** for image-to-image translation and feature extraction.  
+
+🔹 **[Environmental Data Analytics](#)**  
+- Sourced and processed environmental datasets using **GIS and Python**.  
+- Integrated and cleaned missing values for **data-driven decision-making**.  
+
+🔹 **[Power BI / Tableau Dashboards](#)**  
+- Built **interactive dashboards** to visualize business and environmental data trends.  
+- Utilized **DAX and Power Query** for custom metrics and insights.  
+
+---
+
+## 🎓 **Certifications**  
+✔ **Google Associate Cloud Engineer** – *Issued: July 2023*  
+✔ **Microsoft Power BI Data Analyst Associate** – *Issued: May 2023*  
+✔ **Advanced Software Engineering (Walmart Global Tech)**  
+
+---
+
+## 📫 **Get in Touch**  
+💼 **LinkedIn:** [linkedin.com/in/devendrasakhamuri](#)  
+📧 **Email:** devendrasakhamuri@gmail.com  
+🌐 **Portfolio:** [Coming Soon]  
+
+---
+
+⭐ **Looking for opportunities in Data Analytics, Business Intelligence, or Machine Learning roles!**  
+Feel free to connect and collaborate! 🚀  
