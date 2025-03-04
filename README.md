@@ -7,7 +7,7 @@ I am a **Master’s student in Computer Science at Montclair State University** 
 ---
 
 ## 🔥 **Key Skills & Technologies**  
-- **Programming:** Python, SQL, Java, C  
+- **Programming:** Python, SQL, C  
 - **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Visualization:** Power BI, Tableau, GIS  
 - **Machine Learning:** Scikit-learn, TensorFlow, Deep Learning  
