@@ -46,7 +46,7 @@ I am a **Master’s student in Computer Science at Montclair State University** 
 ## 📫 **Get in Touch**  
 💼 **LinkedIn:** [linkedin.com/in/devendrasakhamuri](#)  
 📧 **Email:** devendrasakhamuri@gmail.com  
-🌐 **Portfolio:** [Coming Soon]  
+🌐 **Portfolio:** https://devendrasakhamuri.github.io/portfolio-website/  
 
 ---
 
